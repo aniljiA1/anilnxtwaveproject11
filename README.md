@@ -63,7 +63,7 @@ src/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/riseupp-image-search.git
+git clone https://github.com/aniljiA1/anilnxtwaveproject11.git
 2️⃣ Navigate to Project
 cd riseupp-image-search
 3️⃣ Install Dependencies
